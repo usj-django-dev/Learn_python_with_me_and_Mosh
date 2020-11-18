@@ -4,4 +4,4 @@ Learn python
 
 # Mosh Hamedani
 
-<img src="images/Mosh.PNG" width="1000px" height="600px">
+<img src="images/Mosh.PNG" width="1000px">
