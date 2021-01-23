@@ -2,6 +2,7 @@
 Learn python
 
 
-# Mosh Hamedani
+# Mosh Hamedani___
+https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=2337s
 
 <img src="images/Mosh.PNG" width="1000px">
