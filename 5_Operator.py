@@ -22,13 +22,16 @@ print(A)
 # argumented assignment operator
 
 
+
 G = 10+ 3*2
 print(G)
 
 G = 10+ 3*2**2
 print(G)
+
 G = (10+3)*2**2
 print(G)
+
 G = (2+3)*10-3
 print(G)
 
